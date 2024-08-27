@@ -14,7 +14,20 @@ I’m a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java
 
 - 🌱 I’m currently learning **Backend Development**.
 - 💬 Ask me about **Web Development**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nur-arini/) | [Twitter](https://twitter.com/xknyzd)
+- 🌐 I love exploring new **technologies** and continuously improving my **skills**.
+- 📚 I'm passionate about **learning** and enjoy taking on **challenges** that push me out of my comfort zone.
+- 🎯 My goal is to become a **full-stack developer** and contribute to open-source projects.
+- ✨ I'm always open to collaborating on interesting projects or discussing new ideas.
+
+## 📫 How to Reach Me
+
+You can find me on:
+
+<a href="https://www.linkedin.com/in/nur-arini/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px"/></a>
+<a href="https://www.instagram.com/nrrarn_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30px"/></a>
+<a href="https://github.com/nrrarnn" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30px"/></a>
+<a href="https://twitter.com/xknyzd" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="30px"/></a>
+
 
 
 ## 💻 Technologies & Tools
@@ -36,6 +49,11 @@ I’m a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrrarnn&layout=compact&theme=radical)
+## 📈My Github Stats
 
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=nrrarnn&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nrrarnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrrarnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages"  />
+</div>
 
