@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+
+## Hi👋, I'am Nur Arini
+
+Welcome to my GitHub profile! I'm a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java, Indonesia. 🌱
+
+</div>
 
 <!--
 **nrrarnn/nrrarnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
