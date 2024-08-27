@@ -35,7 +35,7 @@ I’m a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nrrarnn&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrrarnn&layout=compact&theme=radical)
-![Metrics](https://metrics.lecoq.io/nrrarnn?template=classic&languages=1&introduction=1&base=header%3A%3Aactivity&config.timezone=Europe%2FParis)
+
 
