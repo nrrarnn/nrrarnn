@@ -24,7 +24,7 @@ I’m a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java
 You can find me on:
 
 <a href="https://www.linkedin.com/in/nur-arini/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/nrrarn_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30px"/></a>
+<a href="https://www.instagram.com/ryn_code/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30px"/></a>
 <a href="https://github.com/nrrarnn" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30px"/></a>
 <a href="https://twitter.com/xknyzd" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="30px"/></a>
 <a href="https://tiktok.com/@knyzkx" target="_blank"><img src="https://img.icons8.com/?size=100&id=123922&format=png&color=000000" alt="Tiktok" width="30px"/></a>
