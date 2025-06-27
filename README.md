@@ -2,7 +2,7 @@
 
 ## Hi👋, I'am Nur Arini
 
-Welcome to my GitHub profile! I'm a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java, Indonesia. 🌱
+Welcome to my GitHub profile! I'm a Tech Enthusiast
 
 </div>
 
@@ -10,13 +10,10 @@ Welcome to my GitHub profile! I'm a Technology Enthusiast and Aspiring Web Devel
 <!-- **nrrarnn/nrrarnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## 🚀 About Me
-I’m a Technology Enthusiast and Aspiring Web Developer from Bandung, West Java, Indonesia.
 
-- 🌱 I’m currently learning **Backend Development**.
-- 💬 Ask me about **Web Development**.
+- 🌱 I’m currently learning **Mobile Development**.
 - 🌐 I love exploring new **technologies** and continuously improving my **skills**.
 - 📚 I'm passionate about **learning** and enjoy taking on **challenges** that push me out of my comfort zone.
-- 🎯 My goal is to become a **full-stack developer** and contribute to open-source projects.
 - ✨ I'm always open to collaborating on interesting projects or discussing new ideas.
 
 ## 📫 How to Reach Me
@@ -42,6 +39,8 @@ You can find me on:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
